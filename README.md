@@ -14,9 +14,9 @@ Step 3: Now navigate to the cloned project directory using the below command.
         <pre>`cd notes-management-app-laravel`</pre>  
             
 Step 4: After cloning and navigating to project directory, run the below commands in terminal step by step on the same directory  
-        <pre>`npm install`  
-        `composer install`  
-        `php artisan key:generate`</pre>  
+        <pre>`npm install`</pre>  
+        <pre>`composer install`</pre>  
+        <pre>`php artisan key:generate`</pre>  
         
 Step 5: Open MySQL from XAMPP and go the phpMyAdmin page make a database with name '***laravel***'.  
 
