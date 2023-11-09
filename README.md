@@ -29,5 +29,5 @@ Step 7: Now final step, open two terminals side by side on one terminal run belo
         `php artisan serve`  
         
         
-**Notes management app** is up and running on `**localhost:8000**`.
+**Notes management app** is up and running on **localhost:8000**.
         
