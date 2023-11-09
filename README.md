@@ -15,7 +15,7 @@ iii) Node.js installed.
 **Step 3:** Now navigate to the cloned project directory using the below command.  
         <pre>`cd notes-management-app-laravel`</pre>  
 
-**Step 4:** Now rename the file `.env.example` to back to `.env`.
+**Step 4:** Now rename the file `.env.example` back to `.env`.
             
 **Step 5:** After cloning and navigating to project directory, run the below commands in terminal step by step on the same directory  
         <pre>`npm install`</pre>  
