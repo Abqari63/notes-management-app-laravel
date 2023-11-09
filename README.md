@@ -12,10 +12,10 @@ Step 2: clone the project using the below command in terminal.
             <pre>`git clone https://github.com/Abqari63/notes-management-app-laravel`</pre>
 
 Step 3: Now navigate to the cloned project directory using the below command.
-        i) cd notes-management-app-laravel'''
+        <pre>`cd notes-management-app-laravel`</pre>
         
 Step 4: After cloning and navigating to project directory, run the below commands in terminal step by step on the same directory
-        '''npm install'''
+        `npm install`
         '''composer install'''
         '''php artisan key:generate'''
 
