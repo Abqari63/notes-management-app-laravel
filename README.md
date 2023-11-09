@@ -9,7 +9,7 @@ iii) Node.js installed.
 Step 1: Go to the 'xampp/htdocs' directory i.e. where your xampp server for apache is running.
 
 Step 2: clone the project using the below command in terminal.  
-            `git clone https://github.com/Abqari63/notes-management-app-laravel`
+            <pre>`git clone https://github.com/Abqari63/notes-management-app-laravel`</pre>
 
 Step 3: Now navigate to the cloned project directory using the below command.
         i) cd notes-management-app-laravel'''
