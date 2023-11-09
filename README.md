@@ -32,7 +32,7 @@ iii) Node.js installed.
         on other terminal run below command,    
         <pre> `cd notes-management-app-laravel`</pre> 
         <pre>`php artisan serve`</pre>  
-        
-        
+          
+            
 **Notes management app** is up and running on **`localhost:8000`**.
         
