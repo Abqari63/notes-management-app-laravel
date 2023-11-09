@@ -3,6 +3,8 @@ i) XAMPP installed.
 ii) composer installed.  
 iii) Node.js installed.
 
+**Open the XAMPP Apache Server**
+
 # Steps to run the project
 
 **Step 1:** Go to the **'c:/xampp/htdocs'** directory i.e. where your xampp server for apache is running.  
