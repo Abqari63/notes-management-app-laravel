@@ -28,8 +28,8 @@ iii) Node.js installed.
         <pre>`php artisan migrate`</pre>  
         
 **Step 8:** Now final step, open two terminals side by side, on one terminal run below command,  
-        <pre>`npm run dev`</pre>  
-        on other terminal run below command,  
+        <pre>`npm run dev`</pre> 
+        on other terminal run below command,    
         <pre> `cd notes-management-app-laravel`</pre> 
         <pre>`php artisan serve`</pre>  
         
